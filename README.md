@@ -5,6 +5,8 @@ reality (VR) visualization of the rh_0 and rh_98 measures from GEDI L2A products
 
 There are three sections:
 1. code section
-2. report section
+2. report section:
+report is updated in the following link:
+  https://www.overleaf.com/read/kmwghhnfvpxv#bd53bb
 3. graph section
 
