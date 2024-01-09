@@ -16,3 +16,6 @@ report is still working as follows:
    Please visit the HTML code results section:
 file:///Users/olliezhang/Desktop/Brown_Visual_Computing/Starterproject/test.html
 
+
+I will save figure and submit report soon. 
+
