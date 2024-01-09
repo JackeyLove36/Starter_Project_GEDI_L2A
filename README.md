@@ -9,8 +9,10 @@ There are three sections:
 1. code section:
   I use the Python following the instruction as below:
   https://lpdaac.usgs.gov/resources/e-learning/getting-started-gedi-l2a-version-2-data-python/
-3. report section:
+2. report section:
 report is still working as follows:
   https://www.overleaf.com/read/kmwghhnfvpxv#bd53bb
-4. graph section:
+3. graph section:
+   Please visit the HTML code results section:
+file:///Users/olliezhang/Desktop/Brown_Visual_Computing/Starterproject/test.html
 
